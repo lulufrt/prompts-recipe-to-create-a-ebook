@@ -10,7 +10,7 @@ Um Ebook pra crianças de até 12 anos, sobre a importância da nutrição e boa
 
 
 ## 🧐 Processo de Criação
-utilizei o  chat GPT para cria;áo do conteudo do Ebook, o Leonardo.IA para imagens e Canva para diagramacoa do Ebook
+utilizei o  chat GPT para criacao do conteudo do Ebook, o Leonardo.IA para imagens e Canva para diagramacoa do Ebook
 
 ## 🚀 Resultados
 O ebook apresenta texto lúdico que remete a brincadeiras e chama atenção das crianças para o tema.
